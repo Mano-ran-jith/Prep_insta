@@ -1,0 +1,9 @@
+#First N numbers sum
+
+def sumofN():
+    num = 10
+    sum = 0
+    for i in range(1,num+1):
+        sum+=i
+    print(sum)
+sumofN()

@@ -1,3 +1,5 @@
+#Amstrong Number or Not
+
 num1 = 371
 num3 = 0
 for i in str(num1):
